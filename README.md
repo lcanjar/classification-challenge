@@ -20,4 +20,4 @@ Dataset Source: [UCI Machine Learning Library](https://archive.ics.uci.edu/datas
 -- Based on this (and the limited data set in this exercise), I would need to do more feature analysis to improve the score and reduce overfitting.
 -- But given the choice of both model outputs, I'd be more included to use the Logistic Regression model with 'new' data for prediction.
 ---
-Assignment comleted by Louis Canjar
+Assignment completed by Louis Canjar
